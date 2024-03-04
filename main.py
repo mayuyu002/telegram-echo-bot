@@ -3,7 +3,7 @@ import os
 from keep_alive import keep_alive
 keep_alive()
 
-bot = Bot(token=os.environ.get('token'))
+bot = Bot(token=os.environ.get('7140712988:AAETwSbqijd3AUQMRL588afX7QPl6veOS8Y'))
 dp = Dispatcher(bot)
 
 
